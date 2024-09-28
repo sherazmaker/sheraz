@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/sheraz/static/css/main.507a3381.css",
+    "main.js": "/sheraz/static/js/main.b583c9b7.js",
+    "index.html": "/sheraz/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.b583c9b7.js"
+  ]
+}
