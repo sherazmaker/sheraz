@@ -108,32 +108,32 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
+    img: require('./assets/images/nft1.png'),
     description: "NFT Market Place",
     link: "https://nft-marketplace.hashmakersol.net/",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: require('./assets/images/logomoto1.png'),
     description: "Logomoto - Strapi CMS with NextJS App.",
     link: "https://logomoto.netlify.app/",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: require('./assets/images/r1.png'),
     description: "Resumer - A Resume Building application based on pre-defined templates.",
     link: "https://resumer-stage.vercel.app/",
 },
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: require('./assets/images/di2.png'),
     description: "di-workspace - A German SaaS Product for different Role based Users with Stripe Subscription.",
     link: "https://di-workspace.com/",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: require('./assets/images/muyasr1.png'),
     description: "Muyasr - A B2B Ecommerce App solution for Raw Material.",
     link: "https://muyasr.vercel.app/",
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: require('./assets/images/muyasradmin1.png'),
     description: "Ecommerce Admin Panel - An Admin Panel for Ecommerce to manage Users, Products, Selling etc.",
     link: "https://muyasr-admin.vercel.app/",
 },
