@@ -1,11 +1,17 @@
 {
   "files": {
     "main.css": "/sheraz/static/css/main.507a3381.css",
-    "main.js": "/sheraz/static/js/main.b583c9b7.js",
+    "main.js": "/sheraz/static/js/main.a882a3c0.js",
+    "static/media/logomoto1.png": "/sheraz/static/media/logomoto1.cb66b17a925e2085cbe3.png",
+    "static/media/muyasr1.png": "/sheraz/static/media/muyasr1.0abf6c1751efe74e21ec.png",
+    "static/media/nft1.png": "/sheraz/static/media/nft1.b06a8fe279423be48d8d.png",
+    "static/media/r1.png": "/sheraz/static/media/r1.f77091ef76b17691a960.png",
+    "static/media/muyasradmin1.png": "/sheraz/static/media/muyasradmin1.ce481e521555f5463fce.png",
+    "static/media/di2.png": "/sheraz/static/media/di2.25c4bc28722d03bb3e2a.png",
     "index.html": "/sheraz/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.b583c9b7.js"
+    "static/js/main.a882a3c0.js"
   ]
 }
