@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sheraz/static/css/main.507a3381.css",
+    "main.css": "/sheraz/static/css/main.f0bb7498.css",
     "main.js": "/sheraz/static/js/main.820df7f7.js",
     "static/media/luxuri1.png": "/sheraz/static/media/luxuri1.e718155eab9000cd11bb.png",
     "static/media/logomoto1.png": "/sheraz/static/media/logomoto1.cb66b17a925e2085cbe3.png",
@@ -17,7 +17,7 @@
     "index.html": "/sheraz/index.html"
   },
   "entrypoints": [
-    "static/css/main.507a3381.css",
+    "static/css/main.f0bb7498.css",
     "static/js/main.820df7f7.js"
   ]
 }
