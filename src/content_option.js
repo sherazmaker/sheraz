@@ -139,32 +139,32 @@ const dataportfolio = [{
 },
 
 {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: require('./assets/images/raven1.png'),
     description: "Raven Games - An Admin Panel for Gaming company to manage their Game Resources and manage Adds.",
     link: "https://raven-dashboard.vercel.app/",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: require('./assets/images/hms1.png'),
     description: "HMS Marketing - A Prototype for email Marketing tool.",
     link: "https://hms-marketing-pro.vercel.app/",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: require('./assets/images/luxuri1.png'),
     description: "Luxuri - A Property, Cars and Yachts Rental Site.",
     link: "https://luxuri.com/",
 },
 {
-    img: "https://picsum.photos/400/550/?grayscale",
+    img: require('./assets/images/wd1.png'),
     description: "Woodendoor - Admin Panel for Luxuri.com .",
     link: "https://woodendoorpm.com/",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
+    img: require('./assets/images/autoigdm1.png'),
     description: "AutoIGDM - An Instagram marketing campaign system.",
     link: "https://www.autoigdm.com/pro",
 },
 {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: require('./assets/images/aws1.png'),
     description: "AWS Leadfinder - An Serverless Automated Architecture solution for AutoIGDM on AWS.",
     link: "#",
 },
